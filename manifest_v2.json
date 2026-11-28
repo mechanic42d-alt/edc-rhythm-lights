@@ -22,24 +22,48 @@
   "links": [],
   "downloads": {
     "xmb10": {
-      "version": "1.0.13",
-      "file_name": "downloads/app.rpk",
-      "versionCode": 14
+      "version": "1.0.22",
+      "file_name": "downloads/edc光律-优化版-1.0.22-作者签名.rpk",
+      "versionCode": 23,
+      "updatelogs": [
+        {
+          "version": "1.0.22",
+          "content": "优化了视觉效果。"
+        }
+      ]
     },
     "xmb10nfc": {
-      "version": "1.0.13",
-      "file_name": "downloads/app.rpk",
-      "versionCode": 14
+      "version": "1.0.22",
+      "file_name": "downloads/edc光律-优化版-1.0.22-作者签名.rpk",
+      "versionCode": 23,
+      "updatelogs": [
+        {
+          "version": "1.0.22",
+          "content": "优化了视觉效果。"
+        }
+      ]
     },
     "xmb11": {
-      "version": "1.0.13",
-      "file_name": "downloads/app.rpk",
-      "versionCode": 14
+      "version": "1.0.22",
+      "file_name": "downloads/edc光律-优化版-1.0.22-作者签名.rpk",
+      "versionCode": 23,
+      "updatelogs": [
+        {
+          "version": "1.0.22",
+          "content": "优化了视觉效果。"
+        }
+      ]
     },
     "xmb11nfc": {
-      "version": "1.0.13",
-      "file_name": "downloads/app.rpk",
-      "versionCode": 14
+      "version": "1.0.22",
+      "file_name": "downloads/edc光律-优化版-1.0.22-作者签名.rpk",
+      "versionCode": 23,
+      "updatelogs": [
+        {
+          "version": "1.0.22",
+          "content": "优化了视觉效果。"
+        }
+      ]
     }
   },
   "ext": {
